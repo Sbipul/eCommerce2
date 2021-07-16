@@ -1,0 +1,877 @@
+@media all and (max-width:1366px){
+.owl-nav {
+	margin-top: -30% !important;
+}
+.slide-area {
+	padding-top: 99px;
+}
+.image,.gallery {
+	height: 99vh;
+}
+.abouT-area {
+	height: 85vh;
+}
+.sColLeft {
+	height: 60vh;
+}
+.sColRight {
+	height: 60vh;
+}
+
+
+/*about html*/
+
+.ab-img {
+	height: 53vh;
+}
+.colImg {
+	margin-top: 12vh;
+}
+.col-core {
+	text-align: center;
+}
+.col-core h2 {
+	text-align: center;
+	font-size: 22px;
+}
+.col-core p {
+	text-align: justify;
+}
+.signup {
+	height: 88vh;
+}
+
+
+
+
+}
+@media all and (max-width:990px){	
+.top-left ul li {
+	padding-right: 6px;
+}
+.top-right ul li i {
+    font-size: 17px;
+}
+.top-left {
+	width: 150%;
+}
+.top-right ul li a,i {
+    font-size: 16px;
+}
+.top-left ul li a, i {
+	font-size: 16px;
+}
+.top-right {
+    padding-right: 12px;
+    position: absolute;
+    top: -19px;
+}
+.top-left ul li:last-child {
+	margin-left: 3px;
+}
+.my-col-left p {
+	font-size: 30px;
+}
+.slide-area {
+	padding-top: 82px;
+}
+.image,.gallery {
+	height: 56vh;
+}
+.content h1 {
+	font-size: 57px;
+}
+.content p {
+	font-size: 23px;
+}
+.abouT-area {
+	height: 84vh;
+}
+.service-text h3 {
+	padding: 20px 0px;
+	font-size: 16px;
+}
+.service-image {
+	height: 130px;
+}
+.my-col-one {
+	padding: 0px;
+	margin-bottom: -36px;
+}
+.sColRight, .sColLeft {
+	height: 52vh;
+	padding-top: 15px;
+}
+.abouT-area h2::after {
+	left: 45%;
+}
+.text-head h1::after {
+	left: 43%;
+}
+.SA-container h2 {
+	font-size: 23px;
+}
+.SA-container ul li a {
+	font-size: 12px;
+}
+.search input {
+	width: 59%;
+}
+.search i {
+	padding: 9px;
+}
+.cimage-area {
+	padding: 66px 0px 133px 0px;
+}
+.abouT-area {
+	padding: 27px 0px;
+}
+.service-area {
+	padding-bottom: 57px;
+	padding-top: 33px;
+}
+
+
+
+
+/*about page*/
+/*.ab-Cont {
+	text-align: center;
+}
+.ab-img {
+	height: 13vh;
+}
+.subDiv {
+	width: 100%;
+	right: 0%;
+}
+.col-core h2 {
+	font-size: 20px;
+}
+.col-core p {
+	text-align: left;
+	font-size: 15px;
+}
+.col-core i {
+	font-size: 32px;
+}
+.imh {
+	padding-top: 0px;
+}
+.eachman {
+	height: 70px;
+}
+.value {
+	padding: 125px 0px 50px 0px;
+}
+.colImg {
+	margin-top: 9vh;
+}
+.about-area {
+	padding: 145px 0px 0px 0px;
+}
+.all-mem {
+	grid-gap: 7px;
+}
+*/
+.my-col-Left p {
+	text-align: justify;
+}
+.my-col-Left h2, .myCOLth h2 {
+	font-size: 25px;
+}
+
+
+/*services*/
+.allServices {
+	grid-template-columns: auto auto;
+}
+.slContainer {
+	width: 80%;
+}
+.hi-slide > ul {
+	margin-left: -92px;
+}
+.hi-slide .hi-next, .hi-slide .hi-prev {
+	display: none;
+}
+
+
+
+/*contact*/
+.signup {
+	height: 91vh;
+}
+form {
+	width: 54%;
+}
+.signupText input {
+	width: 86%;
+}
+.sdtow p {
+	font-size: 14px;
+	padding: 10px;
+}
+.sdthree p {
+	font-size: 14px;	
+	padding: 10px;
+}
+.sdfour p {
+	font-size: 14px;
+	padding: 10px;	
+}
+.ico-tex {
+	text-align: center;
+	display: block;
+}
+.ico-tex i {
+	font-size: 18px;
+	padding: 0px;
+	color: black;
+	background: none;
+	margin: 5px;
+}
+.sdtow,.sdthree,.sdfour {
+	text-align: center;
+}
+
+
+/*service details html*/
+.sDimg {
+	height: 55vh;
+}
+.sdHeading {
+	top: 36%;
+}
+.sdHeading h2 {
+	font-size: 43px;
+}
+.sdcont {
+	margin-top: -73px;
+	padding: 2px 16px;
+}
+
+
+
+
+/*gallery page*/
+.background {
+	height: 48vh;
+}
+.gallText {
+	top: 22%;
+}
+.gallText h1 {
+	font-size: 49px;
+}
+.mix {
+	width: 345px;
+	height: 176px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+@media all and (max-width:767px){
+.top-right ul {
+	position: absolute;
+	top: -39px;
+	right: 0;
+}
+.top-right {
+	top: -1px;
+	width: 100%;
+}
+.top-right ul li {
+	padding: 0px 6px;
+}
+.top-left ul li a, i {
+	font-size: 16px;
+}
+.top-right ul li i {
+	font-size: 16px;
+}
+.nav span {
+    height: 3px;
+    width: 25px;
+    background: black;
+    margin-bottom: 3px;
+    display: block;
+}
+.nav {
+    height: 20px;
+    width: 25px;
+    position: absolute;
+    top: -26px;
+    right: 14px;
+}
+
+.naV {
+	width: 136%;
+	height: 270px;
+	background: #6f6f6f;
+	position: absolute;
+	top: 0;
+	left: -95px;
+	display: none;
+}
+.nav-bar ul li:hover {
+	background: #ececec;
+	transition: .5s;
+}
+.naV li{
+	display: block;
+	text-align: center;
+}
+
+
+.nav-bar ul ul {
+	width: 30vw;
+	background: #575757;
+	top: 0%;
+	left: 58%;
+	z-index: 2222222;
+}
+.nav-bar ul ul ul{
+	width: 30vw;
+	background: #575757;
+	top: 100%;
+	left: -77%;
+	z-index: 2222222;
+}
+.nav-bar ul ul ul ul{
+	width: 30vw;
+	background: #575757;
+	top: 100%;
+	left: 82%;
+	z-index: 2222222;
+}
+
+
+.content h1 {
+	font-size: 32px;
+}
+.content p {
+	font-size: 18px;
+}
+button a {
+	padding: 9px 16px;
+}
+.image, .gallery {
+	height: 44vh;
+}
+.abouT-area {
+	height: 106vh;
+}
+.abouT-area h2 {
+	font-size: 28px;
+}
+.text-head h1::after {
+	left: 39%;
+}
+.text-head h1 {
+	font-size: 28px;
+}
+.sColLeft h2 {
+	font-size: 28px;
+}
+.ab-Col-left, .ab-Col-left p {
+	text-align: justify;
+	font-size: 15px;
+}
+.cBtn {
+	padding: 6px 16px;
+}
+.allClients i {
+	font-size: 55px;
+}
+.signupText input {
+	width: 84%;
+}
+.ab-Col-left h3 {
+	text-align: center;
+}
+.ab-Col-right {
+	height: 33vh;
+}
+.abouT-area h2::after {
+	top: 55%;
+	left: 44%;
+}
+.sColLeft p {
+	font-size: 15px;
+}
+.ab-Col-left h3 {
+	font-size: 22px;
+}
+.cimage-area {
+	padding: 19px 0px 39px 0px;
+}
+.my-col-one {
+	margin-bottom: 50px;
+}
+.service-image {
+	height: 208px;
+}
+.btN {
+	margin-top: 9px;
+}
+.review {
+	margin-top: 60px;
+}
+
+.sColLeft h2 {
+	text-align: center;
+}
+.sColLeft p {
+	margin: 0 auto;
+	text-align: center;
+}
+.allClients {
+	text-align: center;
+}
+.sColLeft {
+	text-align: center;
+}
+.SA-container h2 {
+	font-size: 18px;
+}
+.SA-container ul li a {
+	font-size: 10px;
+}
+.search input {
+	width: 73%;
+}
+.SA-container.last i {
+	margin-right: 3px !important;
+	font-size: 10px !important;
+}
+.SA-container span {
+	font-size: 18px;
+}
+.SA-container i {
+	font-size: 27px;
+}
+
+
+
+/*about html*/
+
+.all-mem {
+	grid-template-columns: auto;
+}
+.roww {
+	width: 91%;
+}
+.colImg {
+	margin-top: 2vh;
+}
+
+
+/*service html*/
+.allServices {
+	grid-gap: 35px;
+}
+.serviceS {
+	width: 107%;
+}
+.hi-slide > ul {
+	margin-left: -174px;
+}
+
+
+/*contact html*/
+.signupText h2 {
+	margin-bottom: 40px;
+	font-size: 20px;
+}
+form {
+	width: 60%;
+}
+.signupText {
+	padding: 45px 0px;
+}
+.signup {
+	height: 76vh;
+}
+
+
+/*service details*/
+.sdcont {
+	width: 122%;
+	margin-left: -51px;
+}
+.sDetails-area {
+	padding-top: 83px;
+}
+
+
+.lambo {
+	height: 65px;
+	width: 60px;
+	margin-left: 18px;
+}
+
+
+/*gallery page*/
+.gallText h1 {
+	font-size: 35px;
+}
+.gallText p {
+	font-size: 16px;
+}
+.controls {
+	width: 100%;
+}
+.control {
+	font-size: 14px;
+	width: 70px;	
+}
+.mix {
+	width: 100%;
+	border: none;
+	height: 247px;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media all and (max-width: 576px){
+.top-right {
+	right: 0;
+}
+.abCol-left {
+	width: 87%;
+}
+.image, .gallery {
+	height: 42vh;
+}
+.owl-nav {
+	margin-top: -32% !important;
+}
+.abouT-area {
+	height: 105vh;
+}
+.abouT-area {
+	padding: 27px 0px 0px 0px;
+}
+.content h1 {
+	font-size: 28px;
+}
+.content p {
+	font-size: 16px;
+	padding-bottom: 8px;
+}
+.review {
+	margin-top: -49px;
+}
+.cimage-area {
+	padding: 19px 0px 0px 0px;
+}
+
+
+/*about html*/
+/*.ab-img {
+	width: 90%;
+}
+/*.abCol-right {
+	margin-left: -107px;
+}*/
+.mainHead ul li {
+	padding: 0px 25px 15px 25px;
+	border-bottom: 2px solid black;
+}
+
+
+/*service html*/
+.servicc-area {
+	padding-top: 121px;
+	padding-bottom: 56px;
+}*/
+
+
+.sdHeading {
+	top: 17%;
+}
+.value {
+	padding: 167px 0px 50px 0px;
+}
+.ab-img {
+	height: 62vh;
+}
+	
+}
+
+
+
+
+
+
+@media all and (max-width: 480px){
+.top-left ul li a, i {
+	font-size: 14px;
+}
+.owl-nav {
+	margin-top: -46% !important;
+}
+.top-right ul li i {
+	font-size: 14px;
+}
+.abouT-area {
+	height: 109vh;
+}
+.ab-img {
+	height: 43vh;
+}
+.about-area {
+	padding: 105px 0px 0px 0px;
+}	
+.review {
+	margin-top: 0;
+}
+.eachman {
+	height: 30px;
+	width: 30px;
+}
+.allServices {
+	grid-gap: 23px;
+}	
+.colImg {
+	margin-top: 0vh;
+}
+.col-core {
+	padding: 5px;
+	height: 211px;
+	overflow: scroll;
+}
+.imh {	background: none;
+}
+
+.abCol-right {
+	margin-left: -141px;
+}
+.abCol-left {
+	width: 75%;
+}
+.allServices {
+	grid-template-columns: auto;
+}
+.serviceS {
+	width: 91%;
+}
+.hi-slide > ul {
+	margin-left: -184px;
+}
+.slide-Area {
+	padding: 45px 0px;
+}
+
+
+.Row {
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-gap: 30px;
+}
+.sdtow, .sdthree, .sdfour {
+	text-align: center;
+	width: 60%;
+	margin: 0 auto;
+	padding: 10px;
+}
+.RoWW {
+	display: block;
+}
+.sdone {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+.gallText h1 {
+	font-size: 24px;
+}
+.gallText p {
+	font-size: 12px;
+}
+
+
+}
+
+
+
+@media all and (max-width: 420px){
+.top-right ul li i {
+	font-size: 12px;
+}
+.top-right ul li {
+	padding: 0px 3px;
+}
+.top-left ul li a, i {
+	font-size: 12px;
+}
+.owl-nav {
+	margin-top: -43% !important;
+}
+.abouT-area {
+	height: 115vh;
+}
+
+.control {
+	font-size: 11px;
+	width: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+@media all and (max-width: 360px){
+.image, .gallery {
+	height: 37vh;
+}
+.top-right ul li {
+	padding: 0px 3px;
+}
+.top-right {
+	right: 0px;
+}
+.top-left ul li a, i {
+	font-size: 11px;
+}
+.top-right ul li i {
+	font-size: 11px;
+}
+.naV {
+	left: -53px;
+}	
+.owl-nav {
+	margin-top: -60% !important;
+}
+.content h1 {
+	font-size: 21px;
+}
+.content p {
+	font-size: 14px;
+}
+button a {
+	padding: 6px 6px;
+}
+.abouT-area {
+	height: 115vh;
+}
+.sColRight, .sColLeft {
+	height: 60vh;
+}
+.value {
+	padding: 216px 0px 50px 0px;
+}
+.rOw {
+	display: block;
+}
+.col-core {
+	width: 250px;
+}
+.imh h2 {
+	font-size: 13px;
+}
+.allServices {
+	grid-gap: 34px;
+}
+.hi-slide > ul {
+	margin-left: -236px;
+}
+.abouT-area h2::after {
+	left: 41%;
+}
+.text-head h1::after {
+	left: 33%;
+}
+.abCol-right {
+	margin-left: -78px;
+}
+.abCol-left {
+	width: 80%;
+}
+.about-area {
+	overflow: hidden;
+}
+
+
+
+
+
+.sddheading ul li {
+	text-align: center;
+}
+.sddheading ul li a {
+	font-size: 17px;
+}
+.sddcont {
+	margin-left: -30px;
+}
+
+
+
+
+
+
+.mainHead ul li {
+	padding: 0px 15px 15px 15px;
+	border-bottom: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
